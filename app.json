@@ -1,0 +1,19 @@
+{
+  "expo": {
+    "name": "Fitness Pocket",
+    "slug": "fitness-pocket",
+    "scheme": "fitnesspocket",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "light",
+    "plugins": [
+      "expo-router"
+    ],
+    "android": {
+      "package": "com.fitnesspocket.mclab02"
+    },
+    "experiments": {
+      "typedRoutes": false
+    }
+  }
+}
