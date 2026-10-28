@@ -1,9 +1,8 @@
 # Fitness Pocket — MC-Lab02
 
-**Môn học:** Tính toán di động (Mobile Computing)
-**Bài thực hành:** MC-Lab02 — Option 2: Fitness Pocket
-**Công nghệ:** React Native, Expo SDK 57, Expo Router và TypeScript
-
+- **Môn học:** Tính toán di động (Mobile Computing)
+- **Bài thực hành:** MC-Lab02 — Option 2: Fitness Pocket
+- **Công nghệ:** React Native, Expo SDK 57, Expo Router và TypeScript
 ## 1. Giới thiệu
 
 Fitness Pocket là ứng dụng mẫu dành cho hội viên phòng gym. Hội viên đăng nhập để xem thông tin cá nhân, gói tập và danh sách các buổi tập. Ứng dụng có hai màn hình chính: **Member Login** và **Fitness Dashboard**, hỗ trợ đăng xuất và chuyển hướng người dùng chưa đăng nhập về màn hình Login.
